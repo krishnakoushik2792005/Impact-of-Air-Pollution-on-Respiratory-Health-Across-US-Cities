@@ -18,7 +18,7 @@ All datasets have been **cleaned, merged, and published on Kaggle** for open acc
 
 ## 🧹 Data Cleaning & Merging
 
-The dataset was processed using the script [`test-eda.py`](https://github.com/amarrr33/Impact-of-Air-Pollution-on-Respiratory-Health-Across-US-Counties/blob/main/test-eda.py), which:
+The dataset was processed using the script [`merge.py`](https://github.com/amarrr33/Impact-of-Air-Pollution-on-Respiratory-Health-Across-US-Counties/blob/main/merge.py), which:
 - Loads raw pollution, health, and population datasets
 - Cleans missing and inconsistent values
 - Merges datasets using county-level identifiers
