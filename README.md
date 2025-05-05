@@ -38,6 +38,13 @@ The dataset was processed using the script [`test-eda.py`](https://github.com/am
 
 This project was completed collaboratively. While the code is uploaded under this account, the entire process—from data collection to analysis—was done together on a shared environment. The repository showcases our joint effort and learnings from the project.
 
+## 🤝 Collaborators
+
+- [@amarrr33](https://github.com/amarrr33)
+- [@krishnakoushik2792005](https://github.com/krishnakoushik2792005)
+- [@Guru1509](https://github.com/Guru1509)
+
+
 ---
 
 ## 💡 Purpose
